@@ -128,7 +128,7 @@
 	</build>
 	<profiles>
 	 <profile>
-    	    <id>sit</id>
+    	    <id>SIT</id>
 	    <properties>
 		    <spring.profiles.active>sit</spring.profiles.active>
 	    </properties>
