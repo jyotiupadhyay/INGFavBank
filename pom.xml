@@ -84,10 +84,10 @@
 
 	</dependencies>
 	<distributionManagement>
-		<Repository>
-			<id> nexus</id>
-			<url>http://3.7.28.51:8081//nexus/content/repositories/1.0</url>
-		</Repository>
+   <repository>
+               <id>releases</id>
+               <url>http://3.7.28.51:8081/nexus/content/repositories/releases</url>
+  </repository>
 	</distributionManagement>
 
 	<build>
