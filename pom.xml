@@ -128,9 +128,9 @@
 	</build>
 	<profiles>
 	 <profile>
-    	    <id>SIT</id>
+    	    <id>UAT</id>
 	    <properties>
-		    <spring.profiles.active>sit</spring.profiles.active>
+		    <spring.profiles.active>uat</spring.profiles.active>
 	    </properties>
     </profile>
 </profiles>
